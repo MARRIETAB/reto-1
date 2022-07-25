@@ -1,0 +1,10 @@
+@font-face{
+    font-family:'InterBold';
+    src: local('InterBold'), url(./fonts/static/Inter-Bold.ttf) format('truetype');
+}
+
+@font-face{
+    font-family:'InterRegular';
+    src: local('InterRegular'), url(./fonts/static/Inter-Regular.ttf) format('truetype');
+}
+
